@@ -1,4 +1,4 @@
-# project-planner
+# vue-project-planner
 
 ## Project setup
 ```

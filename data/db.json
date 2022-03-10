@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Update resume",
+      "details": "update and sent out resume",
+      "complete": false
+    },
+    {
+      "title": "Vue JS",
+      "details": "finished and pushed one project to github\n",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "build a resume website",
+      "details": "build a resume website using the vue 3 framework",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "Odin",
+      "details": "take Odin for a walk",
+      "complete": true,
+      "id": 7
+    }
+  ]
+}
